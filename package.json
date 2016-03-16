@@ -1,0 +1,19 @@
+{
+  "name": "web_scraper_node",
+  "version": "1.0.0",
+  "description": "Simple Web Scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "web_scraper"
+  },
+  "author": "Laurel Olson",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.69.0"
+  }
+}
